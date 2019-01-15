@@ -4,6 +4,7 @@ Created on Sat Aug 25 19:42:10 2018
 Teng Li modified from Alexey Pasumansky and tkwasnitschka in agisoft Forum
 see: http://www.agisoft.com/forum/index.php?topic=1412.0 
 and: http://www.agisoft.com/forum/index.php?topic=6989 for detail.
+20190115note: why not made some meanful comments half year ago?
 """
 import PhotoScan
 
